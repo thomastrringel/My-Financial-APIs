@@ -1,2 +1,3 @@
-# alphavantage
-my own Alphavantage Excel Sheet 
+# Financial APIs
+Example for Alphavantage
+Example for FinHub
